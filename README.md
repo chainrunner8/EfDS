@@ -14,7 +14,7 @@ EfDS/\
 
 ## Setup & requirements
 Make sure you have Python installed. You can check by running:
-```sh``
+```sh
 python --version
 ```
 
